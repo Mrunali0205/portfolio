@@ -156,7 +156,7 @@ const Hero = () => {
                 <div className="absolute inset-0 bg-gradient-to-br from-primary-400 to-primary-600 rounded-full blur-3xl opacity-20"></div>
                 <div className="relative w-full h-full rounded-full overflow-hidden shadow-2xl ring-4 ring-primary-100">
                   <img 
-                    src="/Photo.jpeg" 
+                    src="Photo.jpeg" 
                     alt="Mrunali Patil - Data Scientist" 
                     className="w-full h-full object-cover"
                   />
